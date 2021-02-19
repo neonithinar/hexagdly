@@ -37,6 +37,7 @@ If you have downloaded HexagDLy, just add the directory `hexagdly/src` to your s
 ```
 export PYTHONPATH='/path/to/hexagdly/src':$PYTHONPATH
 ```
+**Running the jupyter notebooks in Google Colaboratory:** If you plan to run these notebooks in colab, make sure to download the files ```addressing_utils.py```, ```example_utils.py``` and ```hexagdly_tools.py``` from the repository and upload the appropriate files to colab's temporary storage during the runtime. Otherwise you will get a *module not found* error during execution
 
 ## How to use HexagDLy
 
